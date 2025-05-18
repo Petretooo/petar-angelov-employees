@@ -2,7 +2,7 @@
 
 ## About the Project
 
-The project is about how consuming CSV files, and extracting the data from the files. The data is about employees and projects. The main business logic is to find each two pairs on the same project and how long they worked in that project. In additional there are validations and unit tests to ensure the validity of the provided files.
+The project is about consuming CSV files and extracting data from them. The data is for employees and projects. The basic business logic is to find two pairs in the same project and how long they worked in that project. Additionally, there are validations and unit tests to ensure the validity of the provided files and business logic.
 
 ## Technology Stack
 
