@@ -15,6 +15,6 @@ The project is about consuming CSV files and extracting data from them. The data
 
 ## Getting Started
 
-1. Clone the Repository -> git clone https://github.com/Petretooo/sirma-ui.git
+1. Clone the Repository -> git clone https://github.com/Petretooo/petar-angelov-employees.git
 2. Generate the needed libraries and classes -> Run mvn clean-install
 3. Start SirmaApplication to start the application
