@@ -1,4 +1,4 @@
-# Sirma Backend
+# petar-angelov-employees backend
 
 ## About the Project
 
